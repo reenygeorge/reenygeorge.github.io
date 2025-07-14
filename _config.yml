@@ -1,0 +1,11 @@
+title: Mariam George
+remote_theme: just-the-docs/just-the-docs
+description: A collection of curated resources and reflections by Mariam.
+author: Mariam George
+markdown: kramdown
+color_scheme: light
+search_enabled: false
+nav_enabled: false
+
+just-the-docs:
+  show_sidebar: false
