@@ -10,7 +10,7 @@ nav_exclude: true
 </div>
 <br>
 
-I come from Kerala, a land of backwaters, coconut palms, green mountains and Ayurveda,  all of which I took for granted growing up.
+I come from Kerala, a land of backwaters, coconut palms, green mountains and Ayurveda,  all of which I took for granted growing up. Having lived in London long enough, I now proudly call UK my second home.
 
 I began my career in software engineering after graduating in Computer Science with my last role at Symbian/Nokia, before transitioning to academia to pursue research in Cognitive Neuroscience. My interest in Neuroscience began from reading books during my commute, a curiosity that ultimately became one of the most enjoyable and inspiring decisions of my life.
 
