@@ -79,3 +79,6 @@ This site features a curated list of my publications and useful external resourc
 - [Google Deepmind Neuroscience papers](https://kevinjmiller.org/neuroscience-at-google-deepmind/)
 
 ---
+
+# Disclaimer
+The views, thoughts, and opinions expressed in the text are solely my own and do not express the views or opinions of my employer.
